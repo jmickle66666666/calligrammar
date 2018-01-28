@@ -1,0 +1,32 @@
+* {
+	text-align:center;
+	font-family:helvetica, sans-serif;
+}
+
+body {
+	font-size:14px;
+	padding:25px;
+	background: #333;
+}
+
+div.title {
+	font-size:80px;
+	color:#AAB;
+}
+
+textarea {
+	background: #FEE;
+	color: #232;
+}
+
+button {
+	background: #878;
+	border: #002;
+	margin:10px;
+	padding:20px;
+	font-size:20px;
+}
+
+button:hover {
+	background: #989;
+}
